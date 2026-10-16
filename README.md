@@ -1,2 +1,2 @@
-# Oficina-video-educacional-
-Guia didático da Oficina de Planejamento de Vídeos Educacionais 
+# Simulador-video-educacional-gets
+Simulador para experimentação didática da Oficina de Planejamento de Vídeos Educacionais 
